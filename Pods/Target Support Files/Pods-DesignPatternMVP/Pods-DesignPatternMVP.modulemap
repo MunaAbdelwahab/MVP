@@ -1,0 +1,6 @@
+framework module Pods_DesignPatternMVP {
+  umbrella header "Pods-DesignPatternMVP-umbrella.h"
+
+  export *
+  module * { export * }
+}
